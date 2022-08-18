@@ -24,3 +24,50 @@ body {
     text-decoration: none;
     margin: 10px;
 }
+
+.hero {
+    display: flex;
+    background-color: #1F2837;
+    padding: 0px 215px;
+    padding: 125px 215px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin: 0px 0px;
+}
+
+.left {
+    width: 50%;
+    padding-right: 40px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+.img-placeholder {
+    display: flex;
+    width: 530px;
+    height: 230px;
+    background-color: #6C747D;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 125px;
+    height: 35px;
+    font-size: 16px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 8px;
+    margin-top: 5px;
+}
