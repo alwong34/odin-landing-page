@@ -131,3 +131,39 @@ h2 {
     font-weight: bold;
     text-align: right;
 }
+
+.cta {
+    display: flex;
+    margin: 100px 150px;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 50px 150px;
+    justify-content: space-between;
+}
+
+.cta p {
+    margin: 0px 0px;
+}
+
+.top {
+    font-size: 22px;
+    color: white;
+}
+
+.bottom {
+    font-size: 18px;
+    color: lightgray;
+}
+
+.cta button {
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #d2d6db;
+    padding: 25px 25px;
+    text-align: center;
+}
